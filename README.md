@@ -9,7 +9,15 @@ A cancer scientist transitioning into a FullStack developer. Experienced with Py
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="90" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" width="90" height="50" /> 
+
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeltanawy&hide=coffeescript&theme=dracula&count_private=true)
+
+![Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeltanawy&theme=dracula&count_private=true&show_icons=true&custom_title=Abeer's%20Github%20Stats)
+
 
 
 <!--
