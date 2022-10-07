@@ -2,7 +2,7 @@
 
 ---
 
-A cancer scientist transitioning into a FullStack developer. Experienced with Python and Django framework, currently exploring JS frameworks. Still trying to find my way in tech, if you have an advice for me, you can reach me at <abeer.eltanawy@gmail.com>. Technologies I have worked with are listed in the **toolbox** below.
+A cancer scientist transitioning into a Software Engineer. Experienced with Python and Django framework, currently exploring JS frameworks mainly React (Next.js next!). Still trying to find my way in tech, if you have an advice for me, you can reach me at <abeer.eltanawy@gmail.com>. Technologies I have worked with are listed in the **toolbox** below.
 
 ---
 
