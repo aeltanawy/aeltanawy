@@ -2,13 +2,15 @@
 
 ---
 
-A cancer scientist transitioning into a Software Engineer. Experienced with Python and Django framework, currently exploring JS frameworks mainly React (Next.js next!). Still trying to find my way in tech, if you have an advice for me, you can reach me at <abeer.eltanawy@gmail.com>. Technologies I have worked with are listed in the **toolbox** below.
+A cancer research scientist transitioned into a Software Engineer. You can reach me at <abeer.eltanawy@gmail.com>. 
+
+Technologies I have worked with are listed in the **toolbox** below.
 
 ---
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="90" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50" height="50" />  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" width="90" height="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="90" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" />  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" width="90" height="50" /> 
 
 ---
 
